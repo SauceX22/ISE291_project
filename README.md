@@ -16,3 +16,5 @@ Its clear from the summary above that the coulms (RERA, BHK_OR_RK, SQUARE_FT, RE
 |       LONGITUDE       |  Numerical  |          Longitude of the property          |
 |       LATITUDE       |  Numerical  |           Latitude of the property           |
 | TARGET(PRICE_IN_LACS) |  Numerical  |              The property price              |
+
+# header
